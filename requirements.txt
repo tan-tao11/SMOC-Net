@@ -12,6 +12,9 @@ pypng
 scipy
 chardet
 numba
+einops
+matplotlib
+opencv-python
 # install detectron2
 # git clone https://github.com/facebookresearch/detectron2.git
 # cd detectron2 && pip install -e .
