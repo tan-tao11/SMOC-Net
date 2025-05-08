@@ -18,7 +18,7 @@ cd SMOC-Net
 ### **2. Install Dependencies**
 ```bash
 conda create -n smoc-net python=3.9 -y
-conda activate smoc-net
+conda activate SMOC-Net
 pip install -r requirements.txt
 ```
 
