@@ -6,6 +6,7 @@ torchaudio==0.13.0
 
 setproctitle
 timm==0.6.11
+numpy==1.23.0
 transforms3d
 imageio
 pypng
@@ -15,6 +16,11 @@ numba
 einops
 matplotlib
 opencv-python
+scikit-image
+imgaug
+tensorboardX
+
+
 # install detectron2
 # git clone https://github.com/facebookresearch/detectron2.git
 # cd detectron2 && pip install -e .
